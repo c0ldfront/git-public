@@ -1,0 +1,6 @@
+altgraph==0.17.5
+git-filter-repo==2.47.0
+packaging==26.3
+pyinstaller==6.19.0
+pyinstaller-hooks-contrib==2026.8
+setuptools==84.2.0
